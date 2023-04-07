@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  ✋ My name is Satyendra Mourya<br>I am Front End developer.<br>🖥️  See my portfolio at <a href="https://satyendradev.vercel.app/">Portfolio</a><br>🧠  Currently learning TypeScript<br>🤝  I'm open to collaborating on interesting projects as a developer
+Hi  ✋ My name is Satyendra Mourya<br>I am Front End developer.<br>🖥️  See my portfolio at <a href="https://satyendradev.vercel.app/" target="_blank">Portfolio</a><br>🧠  Currently learning TypeScript<br>🤝  I'm open to collaborating on interesting projects as a developer
 
 
 ## 🌐 Socials:
